@@ -1,2 +1,2 @@
-# advocacy
-Sample project for CTIN 583 Project 1: Advocacy
+# Project 1: Advocacy
+Starter Unity project for project 1. 
